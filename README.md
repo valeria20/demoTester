@@ -3,9 +3,9 @@
 1. Install protractor 
    ```npm install -g protractor ```
   
-2. Install mocha
+2. Install mocha and chai
    ```npm install -g mocha```
-
+   ```npm install -g chai```
 3. Download the necessary binaries
    ```webdriver-manager update```
 
